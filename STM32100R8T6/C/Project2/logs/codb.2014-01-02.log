@@ -1,0 +1,52 @@
+00:01:21.534 [Worker-111] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`440`freshExamplesByCompId`1569
+00:01:22.017 [Worker-105] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`440`freshExamplesByCompId`356
+00:01:28.756 [Worker-110] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,clone,-A,admin,http://admin:7390ad@data.coocox.org:9090/cgi-bin/repo/ec3a1fc0-3626-4e92-983b-e96547175f63,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\ec3a1fc0-3626-4e92-983b-e96547175f63.fossil] executed OK 
+Bytes      Cards  Artifacts     Deltas
+Sent:              53          1          0          0
+waiting for server...
+processed: 1%         
+processed: 5%         
+processed: 7%         
+processed: 13%         
+processed: 15%         
+processed: 16%         
+processed: 18%         
+processed: 86%         
+processed: 88%         
+processed: 96%         
+processed: 99%         
+Received:        3594         13          5          0
+Sent:              58          2          0          0
+waiting for server...
+processed: 3%         
+Received:         634          2          0          0
+Total network traffic: 645 bytes sent, 4435 bytes received
+Rebuilding repository meta-data...
+  0.0% complete...
+  20.0% complete...
+  40.0% complete...
+  60.0% complete...
+  80.0% complete...
+  100.0% complete...
+project-id: aa2345247704d4671e627b28d1d0f15652c0cc89
+server-id:  248a54a639cd83c88b4d58f46b0f95a6b811f2c4
+admin-user: admin (password is "deaf52")
+
+00:01:29.681 [Worker-110] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,open,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\ec3a1fc0-3626-4e92-983b-e96547175f63.fossil,-latest] executed OK 
+doc/description.html
+doc/docInfo.dat
+src/example/nvic_priority.c
+project-name: <unnamed>
+repository:   D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\ec3a1fc0-3626-4e92-983b-e96547175f63.fossil
+local-root:   D:/Program_Files/CooCox/CoIDE/repo/Examples/976_NVIC_Priority/
+user-home:    C:/Users/Edgar/AppData/Local
+project-code: aa2345247704d4671e627b28d1d0f15652c0cc89
+checkout:     8da101b5785b56e76c5c6707d002674d5b45f6ba 2013-11-13 01:22:43 UTC
+parent:       4ceb02ba6ef4e349745e784beef25424cd489ca3 2013-11-13 01:20:58 UTC
+tags:         trunk
+comment:      commit the example sourceCode (user: admin)
+
+00:01:29.700 [Worker-110] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,close,-force] executed OK 
+
+
+00:01:30.501 [Worker-110] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`467`freshExamplesByCompId`4728

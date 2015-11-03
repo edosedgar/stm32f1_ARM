@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 2.95 i386-mingw32 -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F100R8 -DSTM32F10X_MD_VL -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -IE:\STM_PROJECT\STM32100R8T6\C\Project1\cmsis_boot -IE:\STM_PROJECT\STM32100R8T6\C\Project1\stm_lib\inc -IE:\STM_PROJECT\STM32100R8T6\C\Project1\cmsis -IE:\STM_PROJECT\STM32100R8T6\C -IE:\STM_PROJECT\STM32100R8T6\C\Project1\stm_lib -IE:\STM_PROJECT\STM32100R8T6\C\Project1">
+      <target file="startup_stm32f10x_md_vl.o" lastModified="142d457318a">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="13f674182d0"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="142d45733ae">
+         <source file="..\..\..\stm_lib\src\stm32f10x_adc.c" lastModified="13f673e7590"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="142d457315d">
+         <source file="..\..\..\stm_lib\src\stm32f10x_tim.c" lastModified="13f673e7590"/>
+      </target>
+      <target file="core_cm3.o" lastModified="142d45731c7">
+         <source file="..\..\..\cmsis\core_cm3.c" lastModified="13f673e3ee0"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="142d457320f">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="13f674182d0"/>
+      </target>
+      <target file="stm32f10x_spi.o" lastModified="142d4573525">
+         <source file="..\..\..\stm_lib\src\stm32f10x_spi.c" lastModified="13f673e65f0"/>
+      </target>
+      <target file="stm32f10x_flash.o" lastModified="142d4573429">
+         <source file="..\..\..\stm_lib\src\stm32f10x_flash.c" lastModified="13f673e8530"/>
+      </target>
+      <target file="main.o" lastModified="143388c8fc5">
+         <source file="..\..\..\main.c" lastModified="143388c8d16"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="142d457326c">
+         <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="13f673e65f0"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="142d4573335">
+         <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="13f673e3ee0"/>
+      </target>
+      <target file="stm32f10x_dma.o" lastModified="142d457347d">
+         <source file="..\..\..\stm_lib\src\stm32f10x_dma.c" lastModified="140aa496f10"/>
+      </target>
+      <target file="misc.o" lastModified="142d45734c2">
+         <source file="..\..\..\stm_lib\src\misc.c" lastModified="140f4f9b420"/>
+      </target>
+   </processor>
+</history>
